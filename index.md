@@ -3,11 +3,18 @@ layout: default
 title: gedatsu217
 ---
 
-# Shu Anzai
-
 ## Basic Information
+* Name: Shu Anzai
 * Email: shu.anzai [at] gmail.com
 * Affiliation: The University of Tokyo
-* Github: https://github.com/gedatsu217
+* Major: Computer science
+* Github: [gedatsu217](https://github.com/gedatsu217)
+* Skills: C,C++,Python,Arduino
 
-hello world
+## Projects
+### Wearbo
+### Neo-Futuristic Experience 2020
+### Wataamech
+
+## Hobby
+### Travelling
