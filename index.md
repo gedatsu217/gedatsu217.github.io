@@ -5,7 +5,6 @@ title: gedatsu217
 
 ## Basic Information
 * Name: Shu Anzai
-* Email: shu.anzai [at] gmail.com
 * Affiliation: The University of Tokyo
 * Major: Computer science
 * Github: [gedatsu217](https://github.com/gedatsu217)
