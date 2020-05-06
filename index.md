@@ -6,7 +6,7 @@ title: gedatsu217
 ## Basic Information
 * Name: Shu Anzai
 * Affiliation: The University of Tokyo
-* Major: Computer science
+* Major: Computer Science
 * Github: [gedatsu217](https://github.com/gedatsu217)
 * Skills: C,C++,Python,Arduino
 
