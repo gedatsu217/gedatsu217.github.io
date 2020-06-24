@@ -1,7 +1,4 @@
----
-layout: default
-title: Shu Anzai
----
+Japanese page is [here](https://gedatsu217.github.io/jp).
 
 # Basic Information
 * Name: Shu Anzai
