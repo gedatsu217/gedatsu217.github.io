@@ -4,9 +4,9 @@ Japanese page is [here](https://gedatsu217.github.io/jp).
 * Name: Shu Anzai
 * Affiliation: The University of Tokyo
 * Major: Computer Science
+* Skills: C, C++, Python, Arduino
 * [Github](https://github.com/gedatsu217)
 * [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/) 
-* Skills: C, C++, Python, Arduino
 
 # Projects
 ## Wearbo
