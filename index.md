@@ -7,7 +7,8 @@ title: Shu Anzai
 * Name: Shu Anzai
 * Affiliation: The University of Tokyo
 * Major: Computer Science
-* Github: [gedatsu217](https://github.com/gedatsu217)
+* [Github](https://github.com/gedatsu217)
+* [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/) 
 * Skills: C,C++,Python,Arduino
 
 ## Projects
