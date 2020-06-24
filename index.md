@@ -1,6 +1,6 @@
 ---
 layout: default
-title: gedatsu217
+title: Shu Anzai
 ---
 
 ## Basic Information
