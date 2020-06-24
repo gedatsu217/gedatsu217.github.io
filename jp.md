@@ -16,7 +16,7 @@ English page is [here](https://gedatsu217.github.io/).
 
 
 # Projects
-## wearbo (2019 August~)
+## wearbo (2019 Aug.~)
 > wearboは未来のデバイスのためのウェアラブルキーボードです。スマートウォッチやARグラスといったデバイス上での文字入力が難しいという問題の解決を目指し、ユーザがストレスなくこれらのデバイス上で文字入力できるようにします。
 >
 > [GUGEN](https://gugen.jp/)や[国際ロボット展](https://biz.nikkan.co.jp/eve/irex/)などで展示しました。来年の[SXSW](https://www.sxsw.com/)でも展示予定です。
@@ -29,7 +29,7 @@ English page is [here](https://gedatsu217.github.io/).
 >
 >HPは[こちら](https://2020.eeic.jp/).
 
-## Wataamech (2018 Sep~2018 Nov)
+## Wataamech (2018 Sep.~2018 Nov.)
 >Wataamechは自動でわたあめを作るロボットです。4つのモーターが取り付けられており、その回転によりわたあめを作ります。モーターの位置はコンピュータにより制御され、また一定のスピードで回転するため、誰でも簡単にふわふわで綺麗な形のわたあめを簡単に作ることができます。
 >
 >[駒場祭](https://www.komabasai.net/69/visitor/)（東京大学の学園祭）と[Maker Faire Tokyo](https://makezine.jp/event/mft2019/)で展示しました。
