@@ -5,7 +5,6 @@ English page is [here](https://gedatsu217.github.io/).
 * Skills: C, C++, Python, Arduino
 * [Github](https://github.com/gedatsu217)
 * [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/)
-* [Blog](https://gedatsu217.hatenablog.com/)
 
 # Background
 * 2021年3月: 東京大学工学部電子情報工学科卒業予定  
