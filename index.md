@@ -30,3 +30,6 @@ It has been exibited at [Komaba Festival](https://www.komabasai.net/69/visitor/)
 
 More details are in [this page](https://robot-candy-factory.myportfolio.com/about).
 
+# Experience
+## Google Summer of Code
+### Project: Support autosuggestions in LLDB's command line

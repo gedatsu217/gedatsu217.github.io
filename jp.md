@@ -38,7 +38,10 @@ English page is [here](https://gedatsu217.github.io/).
 # Experience
 
 * [未踏](https://www.ipa.go.jp/jinzai/mitou/portal_index.html) (2020 June~)  
-> 採択プロジェクト名「布製ウェアラブル手書き入力デバイスの開発」
+> プロジェクト名: 「布製ウェアラブル手書き入力デバイスの開発」
+
+* Google Summer of Code (2020 May~2020 Aug.)
+> プロジェクト名: Support autosuggestions in LLDB's command line
 
 * [DMM.make AKIBA](https://akiba.dmm-make.com/) Scholorship (2020 Jan.~)  
 
