@@ -7,6 +7,8 @@ English page is [here](https://gedatsu217.github.io/).
 * [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/)
 
 # Background
+* 2021年4月: 東京大学情報理工学系研究科創造情報学専攻入学予定
+
 * 2021年3月: 東京大学工学部電子情報工学科卒業予定  
 
 * 2017年4月: 東京大学教養学部文科2類入学  
@@ -37,10 +39,10 @@ English page is [here](https://gedatsu217.github.io/).
 
 # Experience
 
-* [未踏](https://www.ipa.go.jp/jinzai/mitou/portal_index.html) (2020 June~)  
+* [未踏](https://www.ipa.go.jp/jinzai/mitou/portal_index.html) (2020 June~2021 Mar.)  
 > プロジェクト名: 「布製ウェアラブル手書き入力デバイスの開発」
 
-* Google Summer of Code (2020 May~2020 Aug.)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/) (2020 May~2020 Aug.)
 > プロジェクト名: Support autosuggestions in LLDB's command line
 
 * [DMM.make AKIBA](https://akiba.dmm-make.com/) Scholorship (2020 Jan.~)  
