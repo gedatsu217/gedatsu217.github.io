@@ -2,14 +2,14 @@ English page is [here](https://gedatsu217.github.io/).
 # Basic Information
 * 名前: 安斉 周
 * 所属: 東京大学工学部電子情報工学科
-* Skills: C++, C, Rust, Python, Arduino
+* Skills: C++, C, Python, Arduino
 * [Github](https://github.com/gedatsu217)
 * [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/)
 
 # Background
 * 2021年4月: 東京大学情報理工学系研究科創造情報学専攻入学予定
 
-* 2021年3月: 東京大学工学部電子情報工学科卒業予定  
+* 2021年3月: 東京大学工学部電子情報工学科卒業
 
 * 2017年4月: 東京大学教養学部文科2類入学  
 
@@ -20,7 +20,7 @@ English page is [here](https://gedatsu217.github.io/).
 ## wearbo (2019 Aug.~)
 > wearboは未来のデバイスのためのウェアラブルキーボードです。スマートウォッチやARグラスといったデバイス上での文字入力が難しいという問題の解決を目指し、ユーザがストレスなくこれらのデバイス上で文字入力できるようにします。
 >
-> [GUGEN](https://gugen.jp/)や[国際ロボット展](https://biz.nikkan.co.jp/eve/irex/)などで展示しました。来年の[SXSW](https://www.sxsw.com/)でも展示予定です。
+> [GUGEN](https://gugen.jp/)や[国際ロボット展](https://biz.nikkan.co.jp/eve/irex/)，[SXSW](https://www.sxsw.com/)などで展示しました。
 >
 > HPは[こちら](https://wearbo.com/)
 

@@ -2,3 +2,4 @@ markdown: kramdown
 highlighter: rouge
 theme: jekyll-theme-minimal
 title: Shu Anzai
+plugins: jekyll-sitemap
