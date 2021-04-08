@@ -1,15 +1,15 @@
 English page is [here](https://gedatsu217.github.io/).
 # Basic Information
 * 名前: 安斉 周
-* 所属: 東京大学工学部電子情報工学科
+* 所属: 東京大学情報理工学系研究科創造情報学専攻 M1
 * Skills: C++, C, Python, Arduino
 * [Github](https://github.com/gedatsu217)
 * [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/)
 
 # Background
-* 2021年4月: 東京大学情報理工学系研究科創造情報学専攻入学予定
+* 2021年4月: 東京大学情報理工学系研究科創造情報学専攻入学
 
-* 2021年3月: 東京大学工学部電子情報工学科卒業予定
+* 2021年3月: 東京大学工学部電子情報工学科卒業
 
 * 2017年4月: 東京大学教養学部文科2類入学  
 
