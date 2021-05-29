@@ -2,7 +2,7 @@ English page is [here](https://gedatsu217.github.io/).
 # Basic Information
 * 名前: 安斉 周
 * 所属: 東京大学情報理工学系研究科創造情報学専攻 M1
-* Skills: C++, C, Python, Arduino
+* Skills: C++, C, Rust, Python, Arduino
 * [Github](https://github.com/gedatsu217)
 * [Linkedin](https://www.linkedin.com/in/shu-anzai-1941271a3/)
 
@@ -52,8 +52,10 @@ English page is [here](https://gedatsu217.github.io/).
 * [東京大学 Project Fund](https://www.hongotechgarage.com/project/) (2018 Sep.)  
 
 # Awards
-* [Todai To Texas](http://todaitotexas.com/) Demo Day Award (2019 Sep.)
-
 * [GUGEN2019](https://gugen.jp/2019contest-result) 優秀賞・CAMPFIRE賞・太陽工業賞 (2019 Dec.)
 
 * [HEROES LEAGUE 2019](https://hl2019.we-are-ma.jp/) B Inc.賞 (2019 Dec.)
+
+* [Todai To Texas](http://todaitotexas.com/) Demo Day Award (2019 Sep.)
+
+* 未踏スーパークリエイター (2021 May)
